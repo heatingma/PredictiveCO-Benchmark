@@ -1,0 +1,10 @@
+dataset:
+  prob_version: real
+  avg_budget: 0.1
+  n_combs: 4
+
+solver:
+  gurobi:
+    kwargs: none
+  ortools:
+    kwargs: none
